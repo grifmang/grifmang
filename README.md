@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Node, React, Python**
 
-<p align="left">
+<p align="center">
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" alt="react" width="20" height="20"/> 
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/aws.svg" alt="aws" width="20" height="20"/> 
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/bootstrap.svg" alt="bootstrap" width="20" height="20"/> 
