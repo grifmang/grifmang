@@ -4,7 +4,7 @@
 
 - 👨‍💻 My projects and resume are available at [https://TimGriffith.us](https://TimGriffith.us)
 
-- 💬 Ask me about **Node, React, Python**
+- 💬 Chat with me about **Node, React, Python, SEO, InfoSec, anything really.**
 
 <p align="center">
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" alt="react" width="20" height="20"/> 
