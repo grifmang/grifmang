@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tim Griffith</h1>
-<h3 align="center">A Full-Stack Developer who likes to work on new things.</h3>
+<h3 align="center">A software engineer who likes to work on new things.</h3>
 - 🔭 I’m currently working on [A Story Squad clone app.](https://github.com/ss-mvp)
 
 - 👨‍💻 My projects and resume are available at [https://TimGriffith.us](https://TimGriffith.us)
 
-- 💬 Chat with me about **Node, React, Python, SEO, InfoSec, anything really.**
+- 💬 Chat with me about **Node, React, Python, SEO, InfoSec, OSINT, anything really.**
 
 <p align="center">
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" alt="react" width="20" height="20"/> 
