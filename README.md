@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tim Griffith</h1>
 <h3 align="center">A software engineer who likes to work on new things.</h3>
-- 🔭 I’m currently working on learning more about infosec (blue/red)
+- 🔭 Currently, I automate enterprise security tasks.
 
 - 👨‍💻 My projects and resume are available at [https://TimGriffith.us](https://TimGriffith.us)
 
-- 💬 Chat with me about **Node, React, Python, SEO, InfoSec, OSINT, PKI
+- 💬 Chat with me about **Node, React, Python, SEO, InfoSec, OSINT, PKI.**
 
 <p align="center">
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" alt="react" width="20" height="20"/> 
