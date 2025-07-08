@@ -5,7 +5,6 @@
 - 👨‍💻 My projects and resume are available at [https://TimGriffith.us](https://TimGriffith.us)
 
 - 💬 Chat with me about **Node, React, Python, SEO, InfoSec, OSINT, PKI
-- .**
 
 <p align="center">
     <img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/react.svg" alt="react" width="20" height="20"/> 
